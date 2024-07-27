@@ -1,2 +1,2 @@
 # junction_test
-login page automate using java
+login page automate using selenium with java
